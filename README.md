@@ -1,4 +1,4 @@
-# XML-and-XQuery-Queries
+# Books-Data-Analysis
 In this project, an analysis was performed on the books.xml data using XML and XQuery.
 
 The Data Analysis on Books.pdf contains the type of analysis performed in each query.
